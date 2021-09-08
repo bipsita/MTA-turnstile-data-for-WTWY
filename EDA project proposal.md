@@ -1,6 +1,6 @@
-## Reaching the most patrons supportive of their cause: Analyzing MTA turnstile data to suggest optimal placement for WTWY street teams 
+## [Reaching the most patrons supportive of their cause: Analyzing MTA turnstile data to suggest optimal placement for WTWY street teams]
 
-### A Proposal
+### [A Proposal]
 #### September 8, 2021
 
 Technology has hitherto been the stronghold of men. Men have, and continue to dominate in fields relating to science, technology, and engineering. Studies prove social conditioning and lack of opportunities are the reasons due to which women feel inadequate in those areas. 
