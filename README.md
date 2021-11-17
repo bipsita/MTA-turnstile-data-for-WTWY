@@ -2,7 +2,7 @@
 
 ## Abstract 
 
-The goal of the project is to analyze publicly available MTA turnstile data to find locations of maximum passenger movement for obtaining emails of prospective participants in the WomenTechWomenYes annual summer gala. This is achieved through exploratory analysis, namely data cleaning followed by data descriptives and visuals. Data from March through May of 2021 is analyzed to suggest optimal turnstile locations for placing the street teams. Number of passenger exits were counted as patrons on their return trips are more likely to have time to respond. We report findings for a typical weekday, and a Saturday.
+The goal of the project is to find locations of maximum passenger movement in the MTA subway system. I conduct exploratory analysis of publicly available MTA turnstile data. Initial data cleaning is followed by data descriptives and visuals. I analyze the data from March through May of 2021 to suggest optimal turnstile locations for placing the street teams. Number of exiting passenger are counted instead of those entering the system, as patrons on their return trips are more likely to have time to respond. We report findings for a typical weekday, and a Saturday.
 
 ## Design 
 
