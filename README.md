@@ -10,7 +10,8 @@ The data source is the publicly available MTA turnstile data, which has records 
 
 The MTA turnstile data was cleaned, aggregated, and visualized to obtain the optimal placement for Wednesdays, as a typical weekday, and Saturdays, based on median values of exits. As the stations are large and often span many blocks, to specify locations of maximum throughput for street team placement we chose the turnstile as the spatial unit of analysis. 
 
-**Challenges**
+**Data Issues**
+
 Some of the turnstiles had reverse counters due to which later cumulative counts were smaller than earlier ones. Also, the counters were reset on occasions following which counts were smaller than those before. While regular four hourly audits took place, sometimes they were missed and replaced with a recover audit. All recover audit values were disposed for this analysis as they were found too large when compared to the regular audit values. Values obtained after correcting for the reverse and reset counters were compared against a max-counter. The value for this was set at 43200, corresponding to maximum possible passenger exit in a day assuming 2 seconds per person with no swiping at the exit gates.
 
 **Tools**
