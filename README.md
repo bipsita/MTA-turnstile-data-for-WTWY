@@ -1,5 +1,5 @@
 # Placing WTWY Street Teams 
-Project duration:September 13-24, 2021 
+Project duration: September 13-24, 2021 
 
 The goal of the project is to find locations of maximum passenger movement in the MTA subway system. WomenTechWomenYes would like to get emails of New York locals to invite attendees to their annual summer gala. They aim to deploy street teams at the MTA turnstiles to reach maximum participants supportive of "increasing participation of women in technology, and to build awareness and reach". They are interested in knowing the locations of the busiest turnstiles.
 
@@ -16,6 +16,7 @@ The MTA turnstile data was cleaned, aggregated, and visualized to obtain the opt
 Some of the turnstiles had reverse counters due to which later cumulative counts were smaller than earlier ones. Also, the counters were reset on occasions following which counts were smaller than those before. While regular four hourly audits took place, sometimes they were missed and replaced with a recover audit. All recover audit values were disposed for this analysis as they were found too large when compared to the regular audit values. Values obtained after correcting for the reverse and reset counters were compared against a max-counter. The value for this was set at 43200, corresponding to maximum possible passenger exit in a day assuming 2 seconds per person with no swiping at the exit gates.
 
 **Tools**
+
  - SQLite & DB Browser as database for ingested data
 
  - SQLAlchemy for initial queries
