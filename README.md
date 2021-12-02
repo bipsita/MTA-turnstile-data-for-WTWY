@@ -1,8 +1,9 @@
 # Placing WTWY Street Teams 
+Project duration:September 13-24, 2021 
 
 The goal of the project is to find locations of maximum passenger movement in the MTA subway system. WomenTechWomenYes would like to get emails of New York locals to invite attendees to their annual summer gala. They aim to deploy street teams at the MTA turnstiles to reach maximum participants supportive of "increasing participation of women in technology, and to build awareness and reach". They are interested in knowing the locations of the busiest turnstiles.
 
-I conduct exploratory analysis of publicly available MTA turnstile data. Initial data cleaning is followed by data descriptives and visuals. I analyze the data from March through May of 2021 to suggest optimal turnstile locations for placing the street teams. Number of exiting passengers are counted as patrons exiting the subway are more likely to have time to respond compared to patrons entering to catch a train. We report findings for a typical weekday, and a Saturday. 
+I conducted exploratory analysis of publicly available MTA turnstile data. Initial data cleaning is followed by data descriptives and visuals. I analyze the data from March through May of 2021 to suggest optimal turnstile locations for placing the street teams. Number of exiting passengers are counted as patrons exiting the subway are more likely to have time to respond compared to patrons entering to catch a train. We report findings for a typical weekday, and a Saturday. 
 
 **Data Analysis**
 
