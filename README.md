@@ -1,5 +1,5 @@
 # Placing WTWY Street Teams 
-Project duration: September 13-24, 2021 
+Project duration: September 6-17, 2021 
 
 The goal of the project is to find locations of maximum passenger movement in the MTA subway system. WomenTechWomenYes would like to get emails of New York locals to invite attendees to their annual summer gala. They aim to deploy street teams at the MTA turnstiles to reach maximum participants supportive of "increasing participation of women in technology, and to build awareness and reach". They are interested in knowing the locations of the busiest turnstiles.
 
